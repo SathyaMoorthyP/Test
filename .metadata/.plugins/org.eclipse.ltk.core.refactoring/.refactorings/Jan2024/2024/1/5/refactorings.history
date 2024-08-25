@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;jan28_2024_singleton_pattern.SingletonMain&apos; to &apos;A1_SingletonMain&apos;&#x0D;&#x0A;- Original project: &apos;Jan2024&apos;&#x0D;&#x0A;- Original element: &apos;jan28_2024_singleton_pattern.SingletonMain&apos;&#x0D;&#x0A;- Renamed element: &apos;jan28_2024_singleton_pattern.A1_SingletonMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SingletonMain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;jan28_2024_singleton_pattern{SingletonMain.java[SingletonMain" matchStrategy="1" name="A1_SingletonMain" qualified="false" references="true" similarDeclarations="false" stamp="1706401241152" textual="false" version="1.0"/>
+</session>

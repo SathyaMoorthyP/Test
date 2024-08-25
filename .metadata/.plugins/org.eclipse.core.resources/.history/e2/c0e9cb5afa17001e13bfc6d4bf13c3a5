@@ -1,0 +1,10 @@
+package java_oops_collection;
+
+public class OverRidingClassActivity3 {
+	
+private void takeVideo() {
+
+	System.out.println("Take Video");
+}
+	
+}

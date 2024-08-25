@@ -1,0 +1,33 @@
+package week1.day1;
+
+public class Mathematics {
+	
+	int a = 5;
+	int b = 5;
+	int c ;
+	
+	public void addition() {
+		c=a+b;
+		System.out.println("Addition value is"+c);
+	}
+	
+	public void subtraction() {
+		c=a-b;
+		System.out.println("Subtraction value is"+c);
+	}
+	
+	private void multiplication() {
+		c=a*b;
+		System.out.println("Multiplication value is"+c);
+	}
+	
+	void modulus() {
+		c=a%b;
+		System.out.println("Modulus valud is"+c);
+	}
+	
+	protected void division() {
+		c=a/b;
+		System.out.println("Division value is"+c);
+	}
+}

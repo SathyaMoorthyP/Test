@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;A_August_17&apos; to &apos;A_August_17_CreateLead&apos;&#x0D;&#x0A;- Original project: &apos;August_2024_&apos;&#x0D;&#x0A;- Original element: &apos;A_August_17&apos;&#x0D;&#x0A;- Renamed element: &apos;A_August_17_CreateLead&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;A_August_17&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;{A_August_17.java[A_August_17" matchStrategy="1" name="A_August_17_CreateLead" qualified="false" references="true" similarDeclarations="false" stamp="1723905167696" textual="false" version="1.0"/>
+</session>

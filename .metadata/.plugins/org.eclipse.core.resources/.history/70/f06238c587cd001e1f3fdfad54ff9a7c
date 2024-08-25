@@ -1,0 +1,29 @@
+package feb17_2024;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class FindOccurence {
+
+	public static void main(String[] args) {
+		
+		String cName = "amazom india";
+		
+		char[] cha = cName.toCharArray();
+		
+		Map<Character, Integer> occ = new HashMap<Character, Integer>();
+		
+		for (int i = 0; i < cha.length; i++) {
+			
+		if(occ.containsKey(cha[i])){
+				Integer integer = occ.get(cha[i]);
+				occ.put(cha[i], integer + 1);
+			}
+		else{
+			occ.put(cha[i],1);
+		}
+			
+		}
+		System.out.println(occ);
+	}
+}

@@ -1,0 +1,23 @@
+package week1.day1;
+
+public class Mathematics2 {
+	
+	int a = 50;
+	int b = 100;
+	int c;
+	
+	public void addition () {
+		c=b+a;
+		System.out.println("Addtion value is "+c);
+	}
+	
+	public void subtraction () {
+		c=b-a;
+		System.out.println("Addition value is "+c);
+		
+	}
+	public void Multiplication () {
+		c=b*a;
+		System.out.println("Multiplication value is"+c);
+	}
+}

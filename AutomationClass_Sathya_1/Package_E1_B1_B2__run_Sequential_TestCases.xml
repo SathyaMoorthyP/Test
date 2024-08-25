@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="E1_TestNG_Framework_1.B1_CreateLead"/>
+      <class name="E1_TestNG_Framework_1.B2_EditLead"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+<!--b1 & b2 CreateLead and Edit Lead -->

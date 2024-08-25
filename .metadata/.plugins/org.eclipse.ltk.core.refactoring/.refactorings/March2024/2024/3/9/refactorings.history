@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;March03.ConstructorOverLoading&apos; to &apos;Ajith&apos;&#x0D;&#x0A;- Original project: &apos;March2024&apos;&#x0D;&#x0A;- Original element: &apos;March03.ConstructorOverLoading&apos;&#x0D;&#x0A;- Renamed element: &apos;March03.Ajith&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConstructorOverLoading&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;March03{ConstructorOverLoading.java[ConstructorOverLoading" matchStrategy="1" name="Ajith" qualified="false" references="true" similarDeclarations="false" stamp="1709418361815" textual="false" version="1.0"/>
+</session>

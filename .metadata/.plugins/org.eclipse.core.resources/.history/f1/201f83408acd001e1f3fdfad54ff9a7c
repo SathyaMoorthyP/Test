@@ -1,0 +1,28 @@
+package feb17_2024;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+import org.openqa.selenium.Keys;
+
+public class Fin_Final_Occurence {
+
+	public static void main(String[] args) {
+		
+		String cName = "Dell";
+		char[] ccc = cName.toCharArray();
+		
+		Map<Character, Integer> occ = new LinkedHashMap<Character, Integer>();
+		
+		for (int i = 0; i < ccc.length; i++) {
+			
+			if(occ.containsKey(ccc[i])) {
+				Integer integer = occ.get(occ.get(ccc[i]));
+				occ.put(ccc[i], integer+1);
+			}
+			else {
+			occ.put(ccc[i], 1);	
+			}
+		}
+	}
+}

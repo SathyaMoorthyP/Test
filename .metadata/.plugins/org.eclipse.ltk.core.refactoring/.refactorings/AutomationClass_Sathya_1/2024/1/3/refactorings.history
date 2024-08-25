@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;AutomationClass_Sathya_1&apos;&#x0D;&#x0A;- Original project: &apos;AutomationClass_Sathya_1&apos;&#x0D;&#x0A;- Original element: &apos;C1_java_oops_and_collection.Enum.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;C1_java_oops_and_collection{Enum.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1705575907832" subPackages="false" version="1.0"/>
+</session>

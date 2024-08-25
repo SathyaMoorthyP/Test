@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;A1_Login.java&apos; to &apos;Java/src/test/java/Test_NG_FrameWork_2&apos;&#x0D;&#x0A;- Original project: &apos;AutomationClass&apos;&#x0D;&#x0A;- Destination element: &apos;Java/src/test/java/Test_NG_FrameWork_2&apos;&#x0D;&#x0A;- Original element: &apos;selenium_basics_1.A1_Login.java&apos;" description="Copy compilation unit" destination="=Java/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Test_NG_FrameWork_2" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;selenium_basics_1{A1_Login.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1695290369131" units="1" version="1.0"/>
+</session>

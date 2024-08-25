@@ -1,0 +1,23 @@
+package March03;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class PrintDuplicates {
+
+	public static void main(String[] args) {
+		
+		int[] numbers = {1, 1 , 1 , 2, 2, 3, 3, 4}; //7
+		
+		Set<Integer> unique = new HashSet<Integer>();
+		Set<Integer> onlyUnique = new HashSet<Integer>();
+		
+		for(int i =0; i<numbers.length; i++) {
+			boolean add = unique.add(numbers[i]);
+			if(!add) {
+			onlyUnique.add(numbers[i]);	
+			}
+		}
+		System.out.println(onlyUnique);
+	}
+}

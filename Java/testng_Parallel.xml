@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite_Parallel">
+  <test thread-count="2" parallel="classes" name="Test">
+    <classes>
+      <class name="Test_NG_Frame_Work_1.SnapDeal"/>
+      <class name="Test_NG_Frame_Work_1.Amazon"/>
+      <class name="Test_NG_Frame_Work_1.Myntra"/>
+      <class name="Test_NG_Frame_Work_1.FlipKart"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite_Parallel -->

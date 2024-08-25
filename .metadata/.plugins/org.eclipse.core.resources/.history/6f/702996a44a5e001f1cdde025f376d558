@@ -1,0 +1,10 @@
+
+
+Feature: Login to Leaf Tap Application
+Scenario: Positive Scenario
+Given Launch the Browser
+And Enter the URL
+Then Enter username credentials
+Then Enter password details
+Then Click on Login button
+

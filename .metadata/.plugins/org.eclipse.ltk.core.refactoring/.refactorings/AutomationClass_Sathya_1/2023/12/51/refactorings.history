@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;E1_ReadExcel.java&apos; to &apos;AutomationClass_Sathya_2/src/main/java/utils&apos;&#x0D;&#x0A;- Original project: &apos;AutomationClass_Sathya_1&apos;&#x0D;&#x0A;- Destination element: &apos;AutomationClass_Sathya_2/src/main/java/utils&apos;&#x0D;&#x0A;- Original element: &apos;E2_TestNG_Framework_2.E1_ReadExcel.java&apos;" description="Copy compilation unit" destination="=AutomationClass_Sathya_2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;utils" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;E2_TestNG_Framework_2{E1_ReadExcel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1703245863301" units="1" version="1.0"/>
+</session>

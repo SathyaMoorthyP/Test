@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AutomationClass_Sathya_3_Cucumber_POM/src/main/resources/EN.Properties&apos; to &apos;EN.properties&apos;" description="Rename resource &apos;EN.Properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/EN.Properties" name="EN.properties" stamp="1704183340654" updateReferences="true"/>
+</session>

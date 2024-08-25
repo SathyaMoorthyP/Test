@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T15:54:43 IST" name="Suite" finished-at="2024-05-28T15:55:17 IST" duration-ms="34390">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T15:54:43 IST" name="Test" finished-at="2024-05-28T15:55:17 IST" duration-ms="34390">
+      <class name="pacakage3.CreateLeadTest">
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:pacakage3.CreateLeadTest@795509d9]" started-at="2024-05-28T15:54:44 IST" name="preCondition" finished-at="2024-05-28T15:54:52 IST" duration-ms="7921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="createLead(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:pacakage3.CreateLeadTest@795509d9]" started-at="2024-05-28T15:54:52 IST" name="createLead" data-provider="checkData" finished-at="2024-05-28T15:55:02 IST" duration-ms="10140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Narayanan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:pacakage3.CreateLeadTest@795509d9]" started-at="2024-05-28T15:55:02 IST" name="postCondition" finished-at="2024-05-28T15:55:02 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:pacakage3.CreateLeadTest@795509d9]" started-at="2024-05-28T15:55:02 IST" name="preCondition" finished-at="2024-05-28T15:55:09 IST" duration-ms="6718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="createLead(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:pacakage3.CreateLeadTest@795509d9]" started-at="2024-05-28T15:55:09 IST" name="createLead" data-provider="checkData" finished-at="2024-05-28T15:55:17 IST" duration-ms="7767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sathya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:pacakage3.CreateLeadTest@795509d9]" started-at="2024-05-28T15:55:17 IST" name="postCondition" finished-at="2024-05-28T15:55:17 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- pacakage3.CreateLeadTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
