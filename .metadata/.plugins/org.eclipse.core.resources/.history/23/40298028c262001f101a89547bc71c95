@@ -5,7 +5,6 @@ public class A1_Car {
 	//public- access specifiers , void - return type , driverCar -methodName()
 	public void driveCar() {
 		System.out.println("Driving a Car");
-		//check 1
 	}
 	
 	public void applyBrake() {
